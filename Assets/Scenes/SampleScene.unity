@@ -496,9 +496,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a12b3684cc570a34f8f1d25896d6e5a5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cube: {fileID: 1184038378}
-  sphere: {fileID: 541505108}
-  cylinder: {fileID: 316480010}
+  cube: {fileID: 1184038383}
+  sphere: {fileID: 541505113}
+  cylinder: {fileID: 316480015}
   isCube: 0
   isSphere: 0
   isCylinder: 0
